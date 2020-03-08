@@ -7,6 +7,7 @@ body {
 
 #evil-button{
     background-color: green;
+    color:wheat;
     position: absolute;
     white-space: nowrap;
     outline: none;
